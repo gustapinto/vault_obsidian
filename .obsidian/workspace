@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "636f839251560053",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e194d81f3e51d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "indices/pragmatic programmer.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eac4669151e3743e",
+    "type": "split",
+    "children": [
+      {
+        "id": "018367a7712886c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc249e1f4d0f065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "de28bcdfc235765a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "fdebb56495c4cedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4559f88bf55759b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a852538f8f11d97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "indices/pragmatic programmer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62e194d81f3e51d2",
+  "lastOpenFiles": [
+    "indices/pragmatic programmer.md",
+    "caixa de entrada/202106071129.md",
+    "arquivo/20210530 ; Carta sobre a felicidade.md",
+    "caixa de entrada/202103101956.md",
+    "caixa de entrada/202103101955.md",
+    "indices/minimalismo.md",
+    "arquivo/Untitled.md",
+    "caixa de entrada/202104261807.1.md",
+    "indices/hiperfoco.md",
+    "indices/do socialismo utópico ao socialismo científico.md"
+  ]
+}

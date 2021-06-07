@@ -1,0 +1,5 @@
+[[202104022300 ; livro - ciencia da computacao principais e fundamentais | Análise da obra]]
+[[202103171824 | Threads em orientação a objetos]]
+[[202103101956 | Lógica baseada em premissas]]
+[[202103101955 | Linguagens de programação de baixo e alto nível]]
+[[202103131957 ; tipos de endereços de memória]]
