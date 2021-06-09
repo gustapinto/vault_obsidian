@@ -5,6 +5,7 @@ Métodos individuais
 [[202105121824 ; Pragmatismo e responsabilidade]]
 [[202105211624 | A importância da comunicação]]
 [[202105252153 | A importância do texto plano]]
+[[202106082102 ; Tome passos pequenos]]
 
 Software de qualidade
 [[202105131851 | Software bom o suficiente]]
