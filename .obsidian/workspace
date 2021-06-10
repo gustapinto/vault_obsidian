@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "indices/pragmatic programmer.md",
+            "file": "arquivo/202105301200 ; Carta sobre a felicidade.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indices/pragmatic programmer.md",
+                "file": "arquivo/202105301200 ; Carta sobre a felicidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8792938decb7ad24",
   "lastOpenFiles": [
+    "arquivo/20210530 ; Carta sobre a felicidade.md",
+    "indices/zettelkasten.md",
+    "indices/hiperfoco.md",
     "indices/pragmatic programmer.md",
     "caixa de entrada/202106071129 ; Design voltado a contratos.md",
     "caixa de entrada/202106082102.md",
     "indices/minimalismo.md",
-    "indices/hiperfoco.md",
     "indices/do socialismo utópico ao socialismo científico.md",
     "indices/ciencia da computação - principais e fundamentais.md",
-    "indices/zettelkasten.md",
-    "arquivo/20210530 ; Carta sobre a felicidade.md",
     "caixa de entrada/202106071129.md"
   ]
 }
