@@ -9,9 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arquivo/202105301200 ; Carta sobre a felicidade.md",
+            "file": "indices/hiperfoco.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "f56b47d412511737",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 320,
+    "collapsed": true
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -68,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arquivo/202105301200 ; Carta sobre a felicidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8792938decb7ad24",
+  "active": "f56b47d412511737",
   "lastOpenFiles": [
+    "arquivo/202106140947 ; Espaço atencional.md",
+    "indices/hiperfoco.md",
+    "arquivo/Untitled.md",
+    "arquivo/202105301200 ; Carta sobre a felicidade.md",
     "arquivo/20210530 ; Carta sobre a felicidade.md",
     "indices/zettelkasten.md",
-    "indices/hiperfoco.md",
     "indices/pragmatic programmer.md",
     "caixa de entrada/202106071129 ; Design voltado a contratos.md",
     "caixa de entrada/202106082102.md",
-    "indices/minimalismo.md",
-    "indices/do socialismo utópico ao socialismo científico.md",
-    "indices/ciencia da computação - principais e fundamentais.md",
-    "caixa de entrada/202106071129.md"
+    "indices/minimalismo.md"
   ]
 }
