@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8792938decb7ad24",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "indices/hiperfoco.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "f56b47d412511737",
         "type": "leaf",
         "state": {
@@ -60,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320,
-    "collapsed": true
+    "width": 320
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -96,15 +84,15 @@
   },
   "active": "f56b47d412511737",
   "lastOpenFiles": [
-    "arquivo/202106140947 ; Espaço atencional.md",
-    "indices/hiperfoco.md",
-    "arquivo/Untitled.md",
-    "arquivo/202105301200 ; Carta sobre a felicidade.md",
-    "arquivo/20210530 ; Carta sobre a felicidade.md",
-    "indices/zettelkasten.md",
+    "caixa de entrada/202105252153.md",
+    "caixa de entrada/202107060753.md",
+    "caixa de entrada/202107060748.md",
+    "caixa de entrada/202106082102 ; Tome passos pequenos.md",
+    "caixa de entrada/202105211624.md",
+    "caixa de entrada/202104261807.1.md",
+    "caixa de entrada/202104261807.md",
+    "arquivo/202106071129 ; Design voltado a contratos.md",
     "indices/pragmatic programmer.md",
-    "caixa de entrada/202106071129 ; Design voltado a contratos.md",
-    "caixa de entrada/202106082102.md",
-    "indices/minimalismo.md"
+    "indices/zettelkasten.md"
   ]
 }

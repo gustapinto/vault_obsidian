@@ -10,3 +10,7 @@ Métodos individuais
 Software de qualidade
 [[202105131851 | Software bom o suficiente]]
 [[202106071129 ; Design voltado a contratos]]
+[[202107060753 | O impacto de heranças na qualidade de código]]
+
+Arquiteturas
+[[202107060748 | Arquitetura baseada em eventos]]
