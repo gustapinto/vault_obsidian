@@ -1,0 +1,3 @@
+Para Hunt e Thomas o sentido original das metodologias ágeis vem se perdendo, pois cada vez mais existem pessoas e organizações vendendo o 'ágil' como um método pronto, que pode ser embalado em caixas e reaplicado, indepenedente de contexto. Para os autores a gilidade verdadeira se trata de pequenas mudanças na forma como fazemos as coisas, priorizando os resultados aos métodos.[^1]
+
+[^1]: Pragmatic programmer, página 400
