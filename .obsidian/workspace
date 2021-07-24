@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ce6c93f853a96b",
+        "id": "413a9bbb90eccb04",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 320,
+    "collapsed": true
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3ce6c93f853a96b",
+  "active": "413a9bbb90eccb04",
   "lastOpenFiles": [
-    "caixa de entrada/202107120817.1.md",
-    "indices/minimalismo.md",
-    "indices/pragmatic programmer.md",
+    "caixa de entrada/202107241204.md",
+    "arquivo/202106140947 ; Espaço atencional.md",
+    "caixa de entrada/202107241312.md",
     "indices/hiperfoco.md",
-    "caixa de entrada/202106082102 ; Tome passos pequenos.md",
-    "caixa de entrada/202107060753.md",
-    "caixa de entrada/202107120820.md",
-    "caixa de entrada/202107120817.md",
-    "arquivo/202106071129 ; Design voltado a contratos.md",
-    "caixa de entrada/202104091829.md"
+    "indices/minimalismo.md",
+    "caixa de entrada/202107241426.md",
+    "caixa de entrada/202107241421.md",
+    "caixa de entrada/202107120817.1.md",
+    "indices/pragmatic programmer.md",
+    "caixa de entrada/202106082102 ; Tome passos pequenos.md"
   ]
 }
