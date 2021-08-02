@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "413a9bbb90eccb04",
+        "id": "4b386d5d7c71676f",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "413a9bbb90eccb04",
+  "active": "4b386d5d7c71676f",
   "lastOpenFiles": [
+    "caixa de entrada/202108011912.md",
+    "arquivo/202104232200.1.md",
+    "arquivo/202104232200 ; métodos de estudo e memória.md",
+    "indices/discurso do método.md",
+    "caixa de entrada/202108012059.md",
+    "caixa de entrada/202107251958.md",
+    "caixa de entrada/202108012056.md",
+    "Untitled.md",
     "caixa de entrada/202107241204.md",
-    "arquivo/202106140947 ; Espaço atencional.md",
-    "caixa de entrada/202107241312.md",
-    "indices/hiperfoco.md",
-    "indices/minimalismo.md",
-    "caixa de entrada/202107241426.md",
-    "caixa de entrada/202107241421.md",
-    "caixa de entrada/202107120817.1.md",
-    "indices/pragmatic programmer.md",
-    "caixa de entrada/202106082102 ; Tome passos pequenos.md"
+    "arquivo/202106140947 ; Espaço atencional.md"
   ]
 }
