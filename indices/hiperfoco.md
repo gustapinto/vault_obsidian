@@ -9,3 +9,8 @@ Como melhorar seu foco
 HIperfoco e minimalismo  
 [[202104261807.1 | Regras do hiperfoco e minimalismo]]  
 [[202107241312 | Hiperfoco e a vida pessoal]]  
+
+Recarregando as energias  
+[[202108100700 | Recarregando com distrações]]  
+[[202108111150 | Foco disperso e momentos eureca]]  
+

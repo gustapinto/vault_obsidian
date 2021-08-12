@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4b386d5d7c71676f",
+        "id": "ec1cf96f9349bd68",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b386d5d7c71676f",
+  "active": "ec1cf96f9349bd68",
   "lastOpenFiles": [
-    "caixa de entrada/202108011912.md",
-    "arquivo/202104232200.1.md",
-    "arquivo/202104232200 ; métodos de estudo e memória.md",
+    "caixa de entrada/202108111150.md",
+    "indices/hiperfoco.md",
+    "indices/zettelkasten.md",
+    "caixa de entrada/202108121827.md",
+    "caixa de entrada/202108121824.md",
+    "caixa de entrada/202108100700.md",
+    "caixa de entrada/202108121816.md",
+    "caixa de entrada/202108022208.md",
     "indices/discurso do método.md",
-    "caixa de entrada/202108012059.md",
-    "caixa de entrada/202107251958.md",
-    "caixa de entrada/202108012056.md",
-    "Untitled.md",
-    "caixa de entrada/202107241204.md",
-    "arquivo/202106140947 ; Espaço atencional.md"
+    "caixa de entrada/202108121806.md"
   ]
 }
