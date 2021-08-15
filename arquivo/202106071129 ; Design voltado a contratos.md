@@ -12,3 +12,5 @@ Esse conceito pode também ser aplicado a partir de código "preguiçoso", ou se
 
 ---
 Pragmatic programmer: your journey to mastery, tópico 23, David Thomas e Andrew Hunt
+
+#desenvolvimento #arquitetura  

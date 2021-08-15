@@ -13,3 +13,5 @@ Quando comparados a Observers essa arquitetura reduz o acoplamento a partir de u
 [^3]: Pragmatic Programmer: Your journey to mastery, David Thomas e Andrew Hunt 226
 [^4]: Pragmatic Programmer: Your journey to mastery, David Thomas e Andrew Hunt 227
 [^5]: Pragmatic Programmer: Your journey to mastery, David Thomas e Andrew Hunt 227
+
+#desenvolvimento 

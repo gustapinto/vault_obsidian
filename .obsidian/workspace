@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ec1cf96f9349bd68",
+        "id": "6cefb830bb7769d8",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec1cf96f9349bd68",
+  "active": "6cefb830bb7769d8",
   "lastOpenFiles": [
-    "caixa de entrada/202108111150.md",
-    "indices/hiperfoco.md",
-    "indices/zettelkasten.md",
-    "caixa de entrada/202108121827.md",
-    "caixa de entrada/202108121824.md",
-    "caixa de entrada/202108100700.md",
-    "caixa de entrada/202108121816.md",
-    "caixa de entrada/202108022208.md",
-    "indices/discurso do método.md",
-    "caixa de entrada/202108121806.md"
+    "indices/pragmatic programmer.md",
+    "caixa de entrada/202107060753.md",
+    "arquivo/202106071129 ; Design voltado a contratos.md",
+    "arquivo/202107060748 ; Observer em arquiteturas de eventos.md",
+    "arquivo/202107120803 ; Concorrência com atores.md",
+    "caixa de entrada/202107060748.md",
+    "caixa de entrada/202105131851.md",
+    "caixa de entrada/202105252153.md",
+    "arquivo/202107120817.1 ; Agilidade e o mercado sobre perspectiva.md",
+    "indices/minimalismo.md"
   ]
 }

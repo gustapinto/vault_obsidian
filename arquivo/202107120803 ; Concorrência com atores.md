@@ -11,3 +11,5 @@ Os autores discutem também que uma arquitetura baseada em atores é a melhor ma
 [^1]: Pragmatic programmer, your journey to mastery, David Thomas e Andrew Hunt, página 285
 [^2]: Pragmatic programmer,your journey to mastery, David Thomas e Andre Hunt, página 286
 [^3]: Pragmatic programmer,your journey to mastery, David Thomas e Andre Hunt, página 292
+
+#desenvolvimento 

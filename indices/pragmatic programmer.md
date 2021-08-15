@@ -13,8 +13,8 @@ Software de qualidade
 [[202107060753 | O impacto de heranças na qualidade de código]]  
 
 Arquiteturas
-[[202107060748 | Arquitetura baseada em eventos]]  
+[[202107060748 ; Observer em arquiteturas de eventos]]  
 [[202107120803 ; Concorrência com atores]]  
 
 Discussões
-[[202107120817 ; Agilidade e o mercado]]
+[[202107120817 ; Agilidade e o mercado]]  

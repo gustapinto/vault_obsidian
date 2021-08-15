@@ -5,4 +5,4 @@ Hiperfoco
 [[202104261807.1 | Hiperfoco e minimalismo]]
 
 O mercado de sonhos
-[[202107120817.1 | A venda de sonhos]]
+[[202107120817.1 ; Agilidade e o mercado sobre perspectiva | A venda de sonhos]]
