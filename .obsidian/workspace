@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6cefb830bb7769d8",
+        "id": "af6ba275bd64d824",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6cefb830bb7769d8",
+  "active": "af6ba275bd64d824",
   "lastOpenFiles": [
+    "caixa de entrada/202108190709.md",
+    "caixa de entrada/202108190702.md",
     "indices/pragmatic programmer.md",
-    "caixa de entrada/202107060753.md",
-    "arquivo/202106071129 ; Design voltado a contratos.md",
-    "arquivo/202107060748 ; Observer em arquiteturas de eventos.md",
-    "arquivo/202107120803 ; Concorrência com atores.md",
-    "caixa de entrada/202107060748.md",
-    "caixa de entrada/202105131851.md",
-    "caixa de entrada/202105252153.md",
-    "arquivo/202107120817.1 ; Agilidade e o mercado sobre perspectiva.md",
-    "indices/minimalismo.md"
+    "indices/ciencia da computação - principais e fundamentais.md",
+    "indices/Clean architecture (Willian Vance).md",
+    "caixa de entrada/202108190656.md",
+    "indices/minimalismo.md",
+    "indices/hiperfoco.md",
+    "indices/do socialismo utópico ao socialismo científico.md",
+    "indices/discurso do método.md"
   ]
 }
