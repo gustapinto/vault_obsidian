@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:minimalismo",
+      "query": "tag:minimalismo;",
       "color": {
         "a": 1,
         "rgb": 5431473
