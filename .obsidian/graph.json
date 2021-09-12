@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#aprendizagem",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,

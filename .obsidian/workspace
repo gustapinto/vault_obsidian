@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "af6ba275bd64d824",
+        "id": "bde7e1c64fad8ed0",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af6ba275bd64d824",
+  "active": "bde7e1c64fad8ed0",
   "lastOpenFiles": [
-    "indices/Minimalismo.md",
-    "indices/Pense em Python.md",
-    "indices/Do socialismo utópico ao socialismo científico.md",
-    "indices/discurso do método.md",
-    "indices/do socialismo utópico ao socialismo científico.md",
+    "indices/14 hábitos de desenvolvedores altamente produtivos.md",
+    "caixa de entrada/202109121210.md",
+    "caixa de entrada/202109121205.md",
+    "caixa de entrada/202104121100 ; como aprender sozinho.md",
+    "caixa de entrada/202104121300 ; como ler livros.md",
     "indices/hiperfoco.md",
-    "caixa de entrada/202108251901.md",
-    "caixa de entrada/202108251855.md",
-    "caixa de entrada/202108022208.md",
-    "caixa de entrada/202104121300 ; como ler livros.md"
+    "indices/minimalismo.md",
+    "Untitled.md",
+    "indices/Untitled.md",
+    "indices/Minimalismo.md"
   ]
 }
