@@ -7,6 +7,7 @@ Aplicando zettelkasten
 [[202104232200 ; métodos de estudo e memória]]
 [[202104242133 | criando links em notas]]
 [[202105010825 | tarefas macro e micro]]
+[[202104221524 | notas e a memória de curto prazo]]
 
 Simplicidade no método
 [[202104182022 ; como zettelkasten se difere]]

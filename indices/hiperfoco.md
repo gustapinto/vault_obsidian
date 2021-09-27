@@ -1,3 +1,5 @@
+Autor: Chris Bailey
+
 Introdução ao hiperfoco  
 [[202104261801 | A memória atencional e o hiperfoco]]  
 
