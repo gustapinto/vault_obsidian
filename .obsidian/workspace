@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bde7e1c64fad8ed0",
+        "id": "1deda2ae51ce395a",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bde7e1c64fad8ed0",
+  "active": "1deda2ae51ce395a",
   "lastOpenFiles": [
+    "caixa de entrada/202110101022 ; Caos Criativo e a tomada de notas.md",
+    "indices/discurso do método.md",
+    "indices/Caos Criativo - Como ser criativo e resiliente em um mundo que gosta de arrumação.md",
+    "caixa de entrada/202110101022.md",
+    "caixa de entrada/202110031156.md",
+    "caixa de entrada/202110031156.1.md",
     "indices/hiperfoco.md",
-    "caixa de entrada/202104221524.md",
-    "caixa de entrada/202109262015.md",
-    "indices/zettelkasten.md",
-    "indices/14 hábitos de desenvolvedores altamente produtivos.md",
-    "indices/ciencia da computação - principais e fundamentais.md",
-    "indices/Clean architecture (Willian Vance).md",
-    "indices/Pense em Python.md",
-    "indices/pragmatic programmer.md",
-    "indices/minimalismo.md"
+    "caixa de entrada/202110101016.md",
+    "caixa de entrada/202110101013.md",
+    "indices/Untitled.md"
   ]
 }
