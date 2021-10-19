@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1deda2ae51ce395a",
+        "id": "bf66d571493a49a3",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320,
-    "collapsed": true
+    "width": 320
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -83,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1deda2ae51ce395a",
+  "active": "bf66d571493a49a3",
   "lastOpenFiles": [
     "indices/Arquitetura limpa.md",
-    "caixa de entrada/202110142035.md",
-    "arquivo/202110142033 ; Objetivo da arquietura limpa.md",
-    "caixa de entrada/202110142033.md",
-    "indices/Untitled.md",
-    "indices/Caos Criativo - Como ser criativo e resiliente em um mundo que gosta de arrumação.md",
-    "caixa de entrada/202110101022 ; Caos Criativo e a tomada de notas.md",
-    "indices/discurso do método.md",
-    "caixa de entrada/202110101022.md",
-    "caixa de entrada/202110031156.md"
+    "caixa de entrada/202110191902.md",
+    "caixa de entrada/202110191854 ; Mutabilidade em programação funcional.md",
+    "caixa de entrada/202110191854.md",
+    "caixa de entrada/202110191849.md",
+    "indices/ciencia da computação - principais e fundamentais.md",
+    "indices/14 hábitos de desenvolvedores altamente produtivos.md",
+    "indices/pragmatic programmer.md",
+    "indices/hiperfoco.md",
+    "caixa de entrada/202104221524.md"
   ]
 }
