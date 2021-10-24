@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -22,37 +22,23 @@
       }
     },
     {
-      "query": "tag:desenvolvimento",
+      "query": "file:;",
       "color": {
         "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:minimalismo;",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#aprendizagem",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
+        "rgb": 16777215
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.97948717948718,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3323236801111307,
-  "close": false
+  "scale": 0.19050576439301775,
+  "close": true
 }

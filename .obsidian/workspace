@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bf66d571493a49a3",
+        "id": "d4c3e4bb6f584100",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 320,
+    "collapsed": true
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf66d571493a49a3",
+  "active": "d4c3e4bb6f584100",
   "lastOpenFiles": [
     "indices/Arquitetura limpa.md",
-    "caixa de entrada/202110191902.md",
-    "caixa de entrada/202110191854 ; Mutabilidade em programação funcional.md",
-    "caixa de entrada/202110191854.md",
-    "caixa de entrada/202110191849.md",
-    "indices/ciencia da computação - principais e fundamentais.md",
-    "indices/14 hábitos de desenvolvedores altamente produtivos.md",
+    "caixa de entrada/202110242010.md",
     "indices/pragmatic programmer.md",
-    "indices/hiperfoco.md",
-    "caixa de entrada/202104221524.md"
+    "caixa de entrada/202107060753.md",
+    "caixa de entrada/202110242009.md",
+    "caixa de entrada/202110242002.md",
+    "caixa de entrada/202110242008.md",
+    "caixa de entrada/202110241959.md",
+    "caixa de entrada/202110241956.md",
+    "caixa de entrada/202110241954.md"
   ]
 }
