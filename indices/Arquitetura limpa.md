@@ -1,7 +1,10 @@
+Nome completo: Arquitetura limpa, O guia do artesão para estrutura e design de software
 Autor: Robert C. Martin  
+Edição: 1ª, ortografia revisada
+Publicado por: Alta Books
 
 Impacto de uma boa arquitetura  
-[[202110142033 ; Objetivo da arquietura limpa]]  
+[[202110142033 ; Objetivo da arquitetura limpa]]  
 [[202110142035 | Determinando má qualidade de software]]  
 
 Paradigmas de programação  

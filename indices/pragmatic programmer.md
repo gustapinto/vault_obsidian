@@ -1,3 +1,8 @@
+Nome completo: The pragmatic programmer: your journey to mastery, 20th Anniversary edition  
+Autores: David Thomas, Andrew Hunt  
+Edição: Kindle  
+Ano: 2019  
+
 Introdução
 [[202105121821 | O que distingue um programador pragmático]]  
 

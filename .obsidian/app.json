@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "useTab": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "attachmentFolderPath": "resources"
 }

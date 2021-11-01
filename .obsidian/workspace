@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c3e4bb6f584100",
+        "id": "1b761cb2e9e674e9",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320,
+    "width": 423.99999809265137,
     "collapsed": true
   },
   "right": {
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4c3e4bb6f584100",
+  "active": "1b761cb2e9e674e9",
   "lastOpenFiles": [
-    "indices/Arquitetura limpa.md",
-    "caixa de entrada/202110242010.md",
-    "indices/pragmatic programmer.md",
-    "caixa de entrada/202107060753.md",
-    "caixa de entrada/202110242009.md",
-    "caixa de entrada/202110242002.md",
-    "caixa de entrada/202110242008.md",
-    "caixa de entrada/202110241959.md",
-    "caixa de entrada/202110241956.md",
-    "caixa de entrada/202110241954.md"
+    "Arquivo/202104042207 ; o que sao testes deterministicos e nao deterministicos.md",
+    "Indices/Carta sobre a felicidade.md",
+    "slipbox/.gitkeep.md",
+    "Arquivo/202103011800 ; estilos de tomadas de notas.md",
+    "Caixa de entrada/202103171200 ; máquinas de estados.md",
+    "Caixa de entrada/202103131957 ; tipos de endereços de memória.md",
+    "Indices/How to take smart notes.md",
+    "Arquivo/202104021945 ; introducao a zettelkasten.md",
+    "Arquivo/202104022300 ; livro - ciencia da computacao principais e fundamentais.md",
+    "Arquivo/202104202154 ; como nosso cérebro trata novas ideias.md"
   ]
 }

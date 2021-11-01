@@ -1,5 +1,7 @@
+Nome completo: 14 Hábitos de desenvolvedores altamente produtivos  
 Autor: Zeno Rocha  
-Versão: Kindle  
+Edição: Kindle  
+Ano: 2020  
 
 Aprendendo a aprender  
 [[202109121205 | Aprendendo a distinguir o que é importante]]   

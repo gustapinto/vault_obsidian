@@ -1,4 +1,7 @@
-Autor: Chris Bailey
+Nome completo: Hiperfoco  
+Autor: Chris Bailey  
+Edição: 1ª, Kindle  
+Ano: 2019  
 
 Introdução ao hiperfoco  
 [[202104261801 | A memória atencional e o hiperfoco]]  

@@ -6,3 +6,6 @@ os testes de spftwares podem ser alocados em duas grandes categorias conforme o 
 ---
 
 [(Vídeo) Demonstração de testes não determinísticos / João Pedro Rodrigues](https://www.youtube.com/watch?v=z-Olv9pN8hA)
+
+
+#desenvolvimento 
