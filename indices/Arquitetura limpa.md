@@ -25,6 +25,9 @@ SOLID e componentes
 Desacoplamento de componentes e módulos  
 [[202111010839 ; Componentes acíclicos]]  
 [[202111010847 | Quebrando dependências cíclicas]]  
+[[202111021940 | Princípio das abstrações estáveis]]  
+[[202111021940.1 ; Calculo de grau de abstração de um componente]]  
+[[2021110220201 ; Objetivo de uma boa arquitetura]]  
 
 ---
 #arquitetura #desenvolvimento #solid 

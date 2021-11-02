@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1b761cb2e9e674e9",
+        "id": "f973fe5b961e62e2",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,8 +83,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b761cb2e9e674e9",
+  "active": "f973fe5b961e62e2",
   "lastOpenFiles": [
+    "indices/Arquitetura limpa.md",
+    "caixa de entrada/202111021940.1 ; Calculo de grau de abstração de um componente.md",
     "Caixa de entrada/202111010839 ; Componentes acíclicos.md",
     "Indices/Arquitetura limpa.md",
     "Caixa de entrada/202111010847.md",
@@ -92,8 +94,6 @@
     "Arquivo/202111010832 ; Build semanal.md",
     "Arquivo/202104042207 ; o que sao testes deterministicos e nao deterministicos.md",
     "Indices/Carta sobre a felicidade.md",
-    "slipbox/.gitkeep.md",
-    "Arquivo/202103011800 ; estilos de tomadas de notas.md",
-    "Caixa de entrada/202103171200 ; máquinas de estados.md"
+    "slipbox/.gitkeep.md"
   ]
 }
