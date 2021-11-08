@@ -6,6 +6,7 @@ Publicado por: Alta Books
 Impacto de uma boa arquitetura  
 [[202110142033 ; Objetivo da arquitetura limpa]]  
 [[202110142035 | Determinando má qualidade de software]]  
+[[202111072225 ; A composição da arquitetura de software]]  
 
 Paradigmas de programação  e estratégias de desenvolvimento  
 [[202110191849 | Paradigmas de programação]]  
@@ -17,6 +18,7 @@ SOLID e componentes
 [[202110241952 | Principio da responsabilidade única]]  
 [[202110241954 | Principio aberto/fechado]]  
 [[202110241956 | Principio aberto/fechado e a arquitetura de software]]  
+[[202111072229 | Principio aberto/fechado, origem]]  
 [[202110241959 | Principio da inversão de dependência]]  
 [[202110242002 | Principio da equivalência do reuso/release]]  
 [[202110242009 | Principio do fechamento comum]]  
