@@ -7,6 +7,7 @@ Impacto de uma boa arquitetura
 [[202110142033 ; Objetivo da arquitetura limpa]]  
 [[202110142035 | Determinando má qualidade de software]]  
 [[202111072225 ; A composição da arquitetura de software]]  
+[[202111141729 | Arquitetura boa e o ciclo de vida de software]]  
 
 Paradigmas de programação  e estratégias de desenvolvimento  
 [[202110191849 | Paradigmas de programação]]  
@@ -30,6 +31,8 @@ Desacoplamento de componentes e módulos
 [[202111021940 | Princípio das abstrações estáveis]]  
 [[202111021940.1 ; Calculo de grau de abstração de um componente]]  
 [[2021110220201 ; Objetivo de uma boa arquitetura]]  
+[[202111141716 ; Tipos de duplicação de código.md]]  
+[[202111141732 ; Estabelecendo limites de software.md]]  
 
 ---
 #arquitetura #desenvolvimento #solid 

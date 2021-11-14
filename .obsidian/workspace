@@ -6,7 +6,6 @@
       {
         "id": "f973fe5b961e62e2",
         "type": "leaf",
-        "dimension": 99.99999999999999,
         "state": {
           "type": "graph",
           "state": {}
@@ -86,9 +85,9 @@
   },
   "active": "f973fe5b961e62e2",
   "lastOpenFiles": [
+    "indices/Arquitetura limpa.md",
     "caixa de entrada/202111021940.md",
     "arquivo/202111072225 ; A composição da arquitetura de software.md",
-    "indices/Arquitetura limpa.md",
     "indices/Clean architecture (Willian Vance).md",
     "indices/pragmatic programmer.md",
     "caixa de entrada/202111072229.md",
