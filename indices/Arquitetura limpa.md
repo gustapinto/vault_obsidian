@@ -1,3 +1,4 @@
+
 Nome completo: Arquitetura limpa, O guia do artesão para estrutura e design de software
 Autor: Robert C. Martin  
 Edição: 1ª, ortografia revisada
@@ -8,6 +9,7 @@ Impacto de uma boa arquitetura
 [[202110142035 | Determinando má qualidade de software]]  
 [[202111072225 ; A composição da arquitetura de software]]  
 [[202111141729 | Arquitetura boa e o ciclo de vida de software]]  
+[[202111261125 ; A arquitetura limpa]]  
 
 Paradigmas de programação  e estratégias de desenvolvimento  
 [[202110191849 | Paradigmas de programação]]  
@@ -31,8 +33,12 @@ Desacoplamento de componentes e módulos
 [[202111021940 | Princípio das abstrações estáveis]]  
 [[202111021940.1 ; Calculo de grau de abstração de um componente]]  
 [[2021110220201 ; Objetivo de uma boa arquitetura]]  
-[[202111141716 ; Tipos de duplicação de código.md]]  
-[[202111141732 ; Estabelecendo limites de software.md]]  
+[[202111141716 ; Tipos de duplicação de código]]  
+[[202111141732 ; Estabelecendo limites de software]]  
+
+Empresas e arquitetura limpa
+[[202111261107 | Regras de négocio cruciais]]  
+[[202111261116 | Entidades em uma arquitetura]]  
 
 ---
 #arquitetura #desenvolvimento #solid 
