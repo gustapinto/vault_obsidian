@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a036cfdb6c00a38a",
+        "id": "ade85bfe4a60e70d",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,8 +83,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a036cfdb6c00a38a",
+  "active": "ade85bfe4a60e70d",
   "lastOpenFiles": [
+    "arquivo/202111292014 ; Objetos Humble.md",
     "indices/Arquitetura limpa.md",
     "arquivo/202111261125 ; A arquitetura limpa.md",
     "caixa de entrada/202111141729.md",
@@ -93,7 +94,6 @@
     "recursos/arquitetura_limpa.png",
     "caixa de entrada/202108151404.md",
     "caixa de entrada/202111021940.md",
-    "arquivo/202111072225 ; A composição da arquitetura de software.md",
-    "indices/Clean architecture (Willian Vance).md"
+    "arquivo/202111072225 ; A composição da arquitetura de software.md"
   ]
 }

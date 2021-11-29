@@ -40,6 +40,9 @@ Empresas e arquitetura limpa
 [[202111261107 | Regras de négocio cruciais]]  
 [[202111261116 | Entidades em uma arquitetura]]  
 
+Classes, módulos e componentes
+[[202111292014 ; Objetos Humble]]  
+
 ---
 #arquitetura #desenvolvimento #solid 
 
