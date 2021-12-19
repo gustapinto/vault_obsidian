@@ -1,8 +1,8 @@
-
-Nome completo: Arquitetura limpa, O guia do artesão para estrutura e design de software
+Nome completo: Arquitetura limpa, O guia do artesão para estrutura e design de software  
 Autor: Robert C. Martin  
-Edição: 1ª, ortografia revisada
-Publicado por: Alta Books
+Edição: 1ª, ortografia revisada  
+Publicado por: Alta Books, Rio de janeiro  
+Ano: 2019  
 
 Impacto de uma boa arquitetura  
 [[202110142033 ; Objetivo da arquitetura limpa]]  
@@ -42,6 +42,12 @@ Empresas e arquitetura limpa
 
 Classes, módulos e componentes
 [[202111292014 ; Objetos Humble]]  
+
+Testagem  
+[[202112180805 ; Testes e fragilidade]]  
+
+Detalhes
+[[202112180811 | SGBDs são apenas detalhes]]  
 
 ---
 #arquitetura #desenvolvimento #solid 
