@@ -7,8 +7,12 @@
         "id": "ade85bfe4a60e70d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "indices/Essencialismo.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "indices/Essencialismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "ade85bfe4a60e70d",
   "lastOpenFiles": [
-    "indices/minimalismo.md",
     "indices/Essencialismo.md",
+    "caixa de entrada/202112292021.md",
+    "caixa de entrada/202112292019.md",
+    "indices/Untitled.md",
+    "indices/O codificador limpo.md",
+    "indices/minimalismo.md",
     "caixa de entrada/202112191238.md",
     "Untitled.md",
     "caixa de entrada/202112191236.md",
-    "arquivo/202112191230 ; Evitando o estado de fluxo.md",
-    "indices/Arquitetura limpa.md",
-    "indices/pragmatic programmer.md",
-    "O codificador limpo.md",
-    "caixa de entrada/202112191227.md"
+    "arquivo/202112191230 ; Evitando o estado de fluxo.md"
   ]
 }

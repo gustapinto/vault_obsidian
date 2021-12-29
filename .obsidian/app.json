@@ -5,5 +5,7 @@
   "showLineNumber": false,
   "useTab": true,
   "trashOption": "local",
-  "attachmentFolderPath": "resources"
+  "attachmentFolderPath": "resources",
+  "legacyEditor": false,
+  "livePreview": true
 }
