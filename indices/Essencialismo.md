@@ -11,4 +11,6 @@ O que é essencialismo
 
 Métodos
 [[202112292021 | Os três principais métodos e meios do essencialismo]]  
+[[202201042123 | Abrir mão do tédio]]  
+[[202201042125 ; Comunicação essencialista]]
 
