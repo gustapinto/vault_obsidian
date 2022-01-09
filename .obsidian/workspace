@@ -7,8 +7,12 @@
         "id": "ade85bfe4a60e70d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "ade85bfe4a60e70d",
   "lastOpenFiles": [
+    "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md",
     "indices/Essencialismo.md",
+    "caixa de entrada/202201091726 ; A importância dos momentos lúdicos.md",
     "arquivo/202201042125 ; Comunicação essencialista.md",
     "caixa de entrada/202201042123.md",
     "arquivo/202110191902 ; Event sourcing.md",
     "caixa de entrada/202112292021.md",
     "caixa de entrada/202112292019.md",
     "indices/Untitled.md",
-    "indices/O codificador limpo.md",
-    "indices/minimalismo.md",
-    "caixa de entrada/202112191238.md"
+    "indices/O codificador limpo.md"
   ]
 }

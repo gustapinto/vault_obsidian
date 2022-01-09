@@ -14,3 +14,6 @@ Métodos
 [[202201042123 | Abrir mão do tédio]]  
 [[202201042125 ; Comunicação essencialista]]
 
+Brincando
+[[202201091726 ; A importância dos momentos lúdicos]]  
+
