@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ade85bfe4a60e70d",
+        "id": "1795e80f5cbb235b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ade85bfe4a60e70d",
+  "active": "1795e80f5cbb235b",
   "lastOpenFiles": [
-    "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md",
+    "arquivo/202201161128 ; Estratégias para extração de dados de um BD.md",
+    "indices/Data Pipelines - Pocket Reference.md",
+    "caixa de entrada/202201161124.md",
+    "caixa de entrada/202201161121.md",
+    "caixa de entrada/202201161119.md",
     "indices/Essencialismo.md",
-    "caixa de entrada/202201091726 ; A importância dos momentos lúdicos.md",
-    "arquivo/202201042125 ; Comunicação essencialista.md",
-    "caixa de entrada/202201042123.md",
-    "arquivo/202110191902 ; Event sourcing.md",
-    "caixa de entrada/202112292021.md",
-    "caixa de entrada/202112292019.md",
-    "indices/Untitled.md",
-    "indices/O codificador limpo.md"
+    "indices/hiperfoco.md",
+    "indices/Pense em Python.md",
+    "indices/minimalismo.md",
+    "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md"
   ]
 }
