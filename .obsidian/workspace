@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1795e80f5cbb235b",
+        "id": "e5324a658810ff2c",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
+    "width": 250,
     "collapsed": true
   },
   "right": {
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1795e80f5cbb235b",
+  "active": "e5324a658810ff2c",
   "lastOpenFiles": [
+    "indices/minimalismo.md",
+    "arquivo/202201221138 ; A regra dos 90%.md",
+    "indices/Essencialismo.md",
+    "caixa de entrada/202201221144.md",
     "arquivo/202201161128 ; Estratégias para extração de dados de um BD.md",
     "indices/Data Pipelines - Pocket Reference.md",
     "caixa de entrada/202201161124.md",
     "caixa de entrada/202201161121.md",
     "caixa de entrada/202201161119.md",
-    "indices/Essencialismo.md",
-    "indices/hiperfoco.md",
-    "indices/Pense em Python.md",
-    "indices/minimalismo.md",
-    "arquivo/202201091731 ; Concorrência em Go - Talk com Rob Pike.md"
+    "indices/hiperfoco.md"
   ]
 }
