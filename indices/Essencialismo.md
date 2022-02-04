@@ -13,7 +13,10 @@ Métodos
 [[202112292021 | Os três principais métodos e meios do essencialismo]]  
 [[202201042123 | Abrir mão do tédio]]  
 [[202201042125 ; Comunicação essencialista]]  
-[[202201221138 ; A regra dos 90%]]
+[[202201221138 ; A regra dos 90%]]  
+[[202202042012 ; O princípio da condensação]]  
+[[202202042017 | Sobre os problemas alheios]]  
+
 
 Brincando
 [[202201091726 ; A importância dos momentos lúdicos]]  
