@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e5324a658810ff2c",
+        "id": "08d2c128a082989c",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5324a658810ff2c",
+  "active": "08d2c128a082989c",
   "lastOpenFiles": [
+    "indices/Release It!.md",
+    "caixa de entrada/202205140736.md",
+    "caixa de entrada/202205140733.md",
+    "caixa de entrada/202205140731.md",
+    "caixa de entrada/202205140714.md",
+    "indices/Arquitetura limpa.md",
+    "artigos e páginas/O computador feito para durar 50 anos, Vinay Gupta..md",
     "indices/Introdução ao pensamento computacional.md",
     "caixa de entrada/202202191548.md",
-    "caixa de entrada/202202191604.md",
-    "caixa de entrada/202202191559.md",
-    "caixa de entrada/202202191555.md",
-    "caixa de entrada/202110191849.md",
-    "indices/minimalismo.md",
-    "indices/Essencialismo.md",
-    "caixa de entrada/202202042017.md",
-    "caixa de entrada/202202042012 ; O princípio da condensação.md"
+    "caixa de entrada/202202191604.md"
   ]
 }
