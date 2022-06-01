@@ -4,7 +4,15 @@ Edição: 2ª
 Publicado por: Pragmatic Bookshelf  
 Ano: 2018  
 
-[[202205140714]]  
-[[202205140731]]  
-[[202205140733]]  
+Introdução
+[[202205140714 | Falhas no ensino de software moderno]]
+[[202205140733 | Não economize em desenvolvimento]]  
+
+Lidando com erros de forma pragmática
+[[202205140731 | Não tente evitar todos os erros, mas lide com eles quando ocorrerem]]  
 [[202205140736 | Post mortems em software]]
+[[202205312131 | Cadeias de falhas]]
+
+Focos de erros
+[[202205312133 | I/O]]
+[[202205312135 ; Pontos de integração | Pontos de integração]]
