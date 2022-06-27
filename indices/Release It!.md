@@ -1,6 +1,6 @@
 Nome completo: Release It! Design and deploy production-ready software  
 Autor: Michael T. Nygard  
-Edição: 2ª  
+Edição: 2ª
 Publicado por: Pragmatic Bookshelf  
 Ano: 2018  
 
@@ -10,9 +10,17 @@ Introdução
 
 Lidando com erros de forma pragmática
 [[202205140731 | Não tente evitar todos os erros, mas lide com eles quando ocorrerem]]  
-[[202205140736 | Post mortems em software]]
-[[202205312131 | Cadeias de falhas]]
+[[202205140736 | Post mortems em software]]  
+[[202205312131 | Cadeias de falhas]]   
+[[202206271925 | Software capaz de se auto-monitorar]]  
 
 Focos de erros
 [[202205312133 | I/O]]
 [[202205312135 ; Pontos de integração | Pontos de integração]]
+
+Antipadrões de estabilidade
+[[202206271912 ; Threads bloqueadas | Threads bloqueadas]]  
+[[202206271915 | Cuidado com dependências externas]]  
+
+Desacoplamento
+[[202206271920 ; Comunicação entre serviços | Comunicação entre serviços]]

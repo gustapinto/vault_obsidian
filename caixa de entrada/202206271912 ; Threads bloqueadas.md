@@ -1,0 +1,3 @@
+O antipadrão de threads bloqueadas é quase sempre um dos motivos para aplicações pararem, pois ela leva a uma cadeia de errors, começando pelo deacelarar gradual dos processamentos, isso é, aos poucos o processamento vai perdendo performance e culminando em um evento de "servidor pendurado", quando todo o serviço ou servidor se torna incapaz de processar novas chamadas e requisições[^1]
+
+[1]: Release It! Página 68

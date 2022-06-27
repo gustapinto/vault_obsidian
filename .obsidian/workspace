@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "08d2c128a082989c",
+        "id": "ec0cfe26ae7623dc",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250,
-    "collapsed": true
+    "width": 251
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -83,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08d2c128a082989c",
+  "active": "ec0cfe26ae7623dc",
   "lastOpenFiles": [
-    "indices/Release It!.md",
-    "caixa de entrada/202205140731.md",
-    "indices/Arquitetura limpa.md",
     "arquivo/202205312135 ; Pontos de integração.md",
-    "caixa de entrada/202205312139.md",
-    "caixa de entrada/202205312133.md",
-    "caixa de entrada/202205312131.md",
-    "caixa de entrada/202205140736.md",
-    "caixa de entrada/202205140733.md",
-    "caixa de entrada/202205140714.md"
+    "indices/pragmatic programmer.md",
+    "indices/hiperfoco.md",
+    "indices/Release It!.md",
+    "caixa de entrada/202206271925.md",
+    "caixa de entrada/202206271920 ; Comunicação entre serviços.md",
+    "caixa de entrada/202206271915.md",
+    "indices/Arquitetura limpa.md",
+    "caixa de entrada/202206271912 ; Threads bloqueadas.md",
+    "caixa de entrada/202205140731.md"
   ]
 }
