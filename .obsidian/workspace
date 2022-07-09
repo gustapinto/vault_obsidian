@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 251,
+    "collapsed": true
   },
   "right": {
     "id": "fdebb56495c4cedb",
@@ -84,15 +85,15 @@
   },
   "active": "ec0cfe26ae7623dc",
   "lastOpenFiles": [
+    "indices/Algoritimos.md",
+    "caixa de entrada/202207091858 ; Algoritimo conversão de base numérica.md",
     "arquivo/202206271937 ; Calculo lambda - Prof. Edil.md",
+    "caixa de entrada/202206271925.md",
+    "indices/Introdução ao pensamento computacional.md",
     "arquivo/Untitled.md",
     "arquivo/202205312135 ; Pontos de integração.md",
     "indices/pragmatic programmer.md",
     "indices/hiperfoco.md",
-    "indices/Release It!.md",
-    "caixa de entrada/202206271925.md",
-    "caixa de entrada/202206271920 ; Comunicação entre serviços.md",
-    "caixa de entrada/202206271915.md",
-    "indices/Arquitetura limpa.md"
+    "indices/Release It!.md"
   ]
 }
