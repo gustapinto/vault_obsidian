@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ec0cfe26ae7623dc",
+        "id": "24ba990e6879a878",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec0cfe26ae7623dc",
+  "active": "24ba990e6879a878",
   "lastOpenFiles": [
-    "indices/Algoritimos.md",
-    "caixa de entrada/202207091858 ; Algoritimo conversão de base numérica.md",
-    "arquivo/202206271937 ; Calculo lambda - Prof. Edil.md",
-    "caixa de entrada/202206271925.md",
-    "indices/Introdução ao pensamento computacional.md",
-    "arquivo/Untitled.md",
-    "arquivo/202205312135 ; Pontos de integração.md",
-    "indices/pragmatic programmer.md",
-    "indices/hiperfoco.md",
-    "indices/Release It!.md"
+    "indices/Release It!.md",
+    "arquivo/202207172146 ; Governors.md",
+    "caixa de entrada/202206271915.md",
+    "caixa de entrada/202207172141.md",
+    "indices/Arquitetura limpa.md",
+    "arquivo/202207172136 ; Test Harness.md",
+    "caixa de entrada/202207172134.md",
+    "caixa de entrada/202207172128 ; Circuit Breakers.md",
+    "caixa de entrada/202206271920 ; Comunicação entre serviços.md",
+    "indices/Algoritimos.md"
   ]
 }

@@ -23,4 +23,11 @@ Antipadrões de estabilidade
 [[202206271915 | Cuidado com dependências externas]]  
 
 Desacoplamento
-[[202206271920 ; Comunicação entre serviços | Comunicação entre serviços]]
+[[202206271920 ; Comunicação entre serviços | Comunicação entre serviços]]  
+[[202207172141 | Desacoplamento para prevenção de erros]]  
+
+Padrões de estabilidade  
+[[202207172128 ; Circuit Breakers | Circuit Breakers]]  
+[[202207172134 | Bulkheads]]  
+[[202207172136 ; Test Harness | Test Harness]]  
+[[202207172146 ; Governors | Governors]]
